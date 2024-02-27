@@ -1,5 +1,7 @@
 # UBB-ComputerScience
 Projects and homework done throughout the university years
 
-- Semester 1
+:open_book: Semester 1
   - [Fundamentals of Programming](https://github.com/NikAlien/Fundamentals-of-Programming)
+  - [Analysis](https://github.com/NikAlien/Analysis)
+  - [Computer Systems Architecture](https://github.com/NikAlien/Computer-Systems-Architecture)
