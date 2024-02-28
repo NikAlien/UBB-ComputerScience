@@ -15,4 +15,4 @@ Projects and homework done throughout the university years
 :open_book: Semester 3
   - [Advanced Programming Methods](https://github.com/NikAlien/Advanced-Programming-Methods)
   - [Data Base](https://github.com/NikAlien/Data-Base)
-  - [Computer Networks](https://github.com/NikAlien/Computer-Networks)
+  - [Computer Networks](https://github.com/NikAlien/Computer-Network)
