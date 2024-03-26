@@ -16,3 +16,7 @@ Projects and homework done throughout the university years
   - [Advanced Programming Methods](https://github.com/NikAlien/Toy-Language-Interpretor)
   - [Data Base](https://github.com/NikAlien/Data-Base)
   - [Computer Networks](https://github.com/NikAlien/Computer-Network)
+
+:open_book: Semester 4
+  - [Systems for Design and Implementation] (https://github.com/NikAlien/GenshinProject)
+  - [Web Programming]
