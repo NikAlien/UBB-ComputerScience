@@ -20,3 +20,14 @@ Projects and homework done throughout the university years
 :open_book: Semester 4
   - [Systems for Design and Implementation](https://github.com/NikAlien/GenshinProject)
   - [Web Programming](https://github.com/NikAlien/Web-Programming)
+  - [Software Engineering](https://github.com/RazvanMF/UBB-SE-SoftwareEngineering-Assignment7-LocalVersion)
+
+:open_book: Semester 5
+  - [Formal Languages and Compiler Design](https://github.com/NikAlien/Formal-Languages-and-Compiler-Design)
+  - [Mobile Application programming](https://github.com/ma-cs-ubbcluj-ro/crud-project-NikAlien)
+  - [Parallel and Distributed Programming](https://github.com/NikAlien/Parallel-and-Distributed-Programming)
+  - [Virtual Reality]
+
+:open_book: Semester 6
+  - [Software Systems Verification and Validation](https://github.com/NikAlien/Software-Systems-Verification-and-Validation)
+  - [Numerical calculus](https://github.com/NikAlien/Numerical-Calculus)
