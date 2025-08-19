@@ -18,7 +18,7 @@ Projects and homework done throughout the university years
   - [Computer Networks](https://github.com/NikAlien/Computer-Network)
 
 :open_book: Semester 4
-  - [Systems for Design and Implementation](https://github.com/NikAlien/GenshinProject)
+  - [Systems for Design and Implementation](https://github.com/NikAlien/GenshinProject-CRUD-App)
   - [Web Programming](https://github.com/NikAlien/Web-Programming)
   - [Software Engineering](https://github.com/RazvanMF/UBB-SE-SoftwareEngineering-Assignment7-LocalVersion)
 
